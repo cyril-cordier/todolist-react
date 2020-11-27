@@ -18,7 +18,7 @@ onSubmit = (e) => {
     e.preventDefault();
     this.setState({
         element : '',
-        items : [... this.state.items, {element: this.state.element}]
+        items : [...this.state.items, {element: this.state.element}]
     })
 }
 
