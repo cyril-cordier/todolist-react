@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/cyril-cordier/todolist-react/static/js/main.61c11f97.chunk.js",
-    "main.js.map": "/cyril-cordier/todolist-react/static/js/main.61c11f97.chunk.js.map",
-    "runtime~main.js": "/cyril-cordier/todolist-react/static/js/runtime~main.02c061ab.js",
-    "runtime~main.js.map": "/cyril-cordier/todolist-react/static/js/runtime~main.02c061ab.js.map",
-    "static/css/2.266e55a5.chunk.css": "/cyril-cordier/todolist-react/static/css/2.266e55a5.chunk.css",
-    "static/js/2.b7fa8f2a.chunk.js": "/cyril-cordier/todolist-react/static/js/2.b7fa8f2a.chunk.js",
-    "static/js/2.b7fa8f2a.chunk.js.map": "/cyril-cordier/todolist-react/static/js/2.b7fa8f2a.chunk.js.map",
-    "index.html": "/cyril-cordier/todolist-react/index.html",
-    "precache-manifest.74c1bcdaf18c0e6125f14c9803dab382.js": "/cyril-cordier/todolist-react/precache-manifest.74c1bcdaf18c0e6125f14c9803dab382.js",
-    "service-worker.js": "/cyril-cordier/todolist-react/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/cyril-cordier/todolist-react/static/css/2.266e55a5.chunk.css.map"
+    "main.js": "/cyril-cordier/todolistreact/static/js/main.61c11f97.chunk.js",
+    "main.js.map": "/cyril-cordier/todolistreact/static/js/main.61c11f97.chunk.js.map",
+    "runtime~main.js": "/cyril-cordier/todolistreact/static/js/runtime~main.f21f1bac.js",
+    "runtime~main.js.map": "/cyril-cordier/todolistreact/static/js/runtime~main.f21f1bac.js.map",
+    "static/css/2.266e55a5.chunk.css": "/cyril-cordier/todolistreact/static/css/2.266e55a5.chunk.css",
+    "static/js/2.b7fa8f2a.chunk.js": "/cyril-cordier/todolistreact/static/js/2.b7fa8f2a.chunk.js",
+    "static/js/2.b7fa8f2a.chunk.js.map": "/cyril-cordier/todolistreact/static/js/2.b7fa8f2a.chunk.js.map",
+    "index.html": "/cyril-cordier/todolistreact/index.html",
+    "precache-manifest.a7f8adcb2c160702aeebbb1ed3afd222.js": "/cyril-cordier/todolistreact/precache-manifest.a7f8adcb2c160702aeebbb1ed3afd222.js",
+    "service-worker.js": "/cyril-cordier/todolistreact/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/cyril-cordier/todolistreact/static/css/2.266e55a5.chunk.css.map"
   }
 }
