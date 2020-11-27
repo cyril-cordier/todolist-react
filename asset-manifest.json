@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/cyril-cordier/todolist-react/static/js/main.4fec9bfc.chunk.js",
-    "main.js.map": "/cyril-cordier/todolist-react/static/js/main.4fec9bfc.chunk.js.map",
+    "main.js": "/cyril-cordier/todolist-react/static/js/main.61c11f97.chunk.js",
+    "main.js.map": "/cyril-cordier/todolist-react/static/js/main.61c11f97.chunk.js.map",
     "runtime~main.js": "/cyril-cordier/todolist-react/static/js/runtime~main.02c061ab.js",
     "runtime~main.js.map": "/cyril-cordier/todolist-react/static/js/runtime~main.02c061ab.js.map",
     "static/css/2.266e55a5.chunk.css": "/cyril-cordier/todolist-react/static/css/2.266e55a5.chunk.css",
     "static/js/2.b7fa8f2a.chunk.js": "/cyril-cordier/todolist-react/static/js/2.b7fa8f2a.chunk.js",
     "static/js/2.b7fa8f2a.chunk.js.map": "/cyril-cordier/todolist-react/static/js/2.b7fa8f2a.chunk.js.map",
     "index.html": "/cyril-cordier/todolist-react/index.html",
-    "precache-manifest.c3be540a8039d17a3624e5366c6d94fb.js": "/cyril-cordier/todolist-react/precache-manifest.c3be540a8039d17a3624e5366c6d94fb.js",
+    "precache-manifest.74c1bcdaf18c0e6125f14c9803dab382.js": "/cyril-cordier/todolist-react/precache-manifest.74c1bcdaf18c0e6125f14c9803dab382.js",
     "service-worker.js": "/cyril-cordier/todolist-react/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/cyril-cordier/todolist-react/static/css/2.266e55a5.chunk.css.map"
   }
